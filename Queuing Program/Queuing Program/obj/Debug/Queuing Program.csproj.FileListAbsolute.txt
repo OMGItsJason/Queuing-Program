@@ -1,0 +1,19 @@
+C:\Users\Jason User\Documents\Queuing Program\Queuing Program\bin\Debug\Queuing Program.exe.config
+C:\Users\Jason User\Documents\Queuing Program\Queuing Program\bin\Debug\Queuing Program.exe
+C:\Users\Jason User\Documents\Queuing Program\Queuing Program\bin\Debug\Queuing Program.pdb
+C:\Users\Jason User\Documents\Queuing Program\Queuing Program\obj\Debug\Queuing Program.csproj.AssemblyReference.cache
+C:\Users\Jason User\Documents\Queuing Program\Queuing Program\obj\Debug\MainWindow.g.cs
+C:\Users\Jason User\Documents\Queuing Program\Queuing Program\obj\Debug\App.g.cs
+C:\Users\Jason User\Documents\Queuing Program\Queuing Program\obj\Debug\Queuing Program_MarkupCompile.cache
+C:\Users\Jason User\Documents\Queuing Program\Queuing Program\obj\Debug\Queuing Program_MarkupCompile.lref
+C:\Users\Jason User\Documents\Queuing Program\Queuing Program\obj\Debug\MainWindow.baml
+C:\Users\Jason User\Documents\Queuing Program\Queuing Program\obj\Debug\Queuing Program.g.resources
+C:\Users\Jason User\Documents\Queuing Program\Queuing Program\obj\Debug\Queuing_Program.Properties.Resources.resources
+C:\Users\Jason User\Documents\Queuing Program\Queuing Program\obj\Debug\Queuing Program.csproj.GenerateResource.cache
+C:\Users\Jason User\Documents\Queuing Program\Queuing Program\obj\Debug\Queuing Program.csproj.CoreCompileInputs.cache
+C:\Users\Jason User\Documents\Queuing Program\Queuing Program\obj\Debug\Queuing Program.exe
+C:\Users\Jason User\Documents\Queuing Program\Queuing Program\obj\Debug\Queuing Program.pdb
+C:\Users\Jason User\Documents\Queuing Program\Queuing Program\obj\Debug\CashierWindowQueueForm.g.cs
+C:\Users\Jason User\Documents\Queuing Program\Queuing Program\obj\Debug\CashierWindowQueueForm.baml
+C:\Users\Jason User\Documents\Queuing Program\Queuing Program\obj\Debug\CustomerView.g.cs
+C:\Users\Jason User\Documents\Queuing Program\Queuing Program\obj\Debug\CustomerView.baml
